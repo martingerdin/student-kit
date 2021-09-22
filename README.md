@@ -15,7 +15,7 @@ of system level interventions for improved trauma care. Most of my research is b
 
 These are student papers that have been published. Please read to get a more concrete idea of the kind of projects I supervise.
 
-1. Larsson A, Berg J, Gellerfors M, Gerdin Wärnberg M. The advanced machine learner XGBoost did not reduce prehospital trauma mistriage compared with logistic regression: a simulation study. BMC Med Inform Decis Mak. 2021 Jun 21;21(1):192. doi: 10.1186/s12911-021-01558-y. PMID: 34148560; PMCID: PMC8215793.
+1. Larsson A, Berg J, Gellerfors M, Gerdin Wärnberg M. The advanced machine learner XGBoost did not reduce prehospital trauma mistriage compared with logistic regression: a simulation study. BMC Med Inform Decis Mak. 2021 Jun 21;21(1):192. doi: https://doi.org/10.1186/s12911-021-01558-y. PMID: 34148560; PMCID: PMC8215793.
 2. Henriksson M, Saulnier DD, Berg J, Gerdin Wärnberg M. The transfer of clinical prediction models for early trauma care had uncertain effects on mistriage. J Clin Epidemiol. 2020 Dec;128:66-73. doi: https://doi.org/10.1016/j.jclinepi.2020.08.014. Epub 2020 Aug 22. PMID: 32835888.
 3. Wärnberg Gerdin L, Khajanchi M, Kumar V, Roy N, Saha ML, Soni KD, Mishra A, Kamble J, Borle N, Verma CP, Gerdin Wärnberg M. Comparison of emergency department trauma triage performance of clinicians and clinical prediction models: a cohort study in India. BMJ Open. 2020 Feb 18;10(2):e032900. doi: https://doi.org/10.1136/bmjopen-2019-032900. PMID: 32075827; PMCID: PMC7044989.
 4. Mansourati M, Kumar V, Khajanchi M, Saha ML, Dharap S, Seger R, Gerdin Wärnberg M. Mortality following surgery for trauma in an Indian trauma cohort. Br J Surg. 2018 Sep;105(10):1274-1282. doi: https://doi.org/10.1002/bjs.10862. Epub 2018 Apr 17. PMID: 29665031.
