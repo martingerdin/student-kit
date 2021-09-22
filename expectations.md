@@ -1,12 +1,12 @@
 # My expectations of you as the student
 - Complete a detailed project timeline with relevant dates based on the [generic timeline](project-timeline.md).
-- Arrange weekly or bi-weekly phone meetings.
+- Arrange weekly or bi-weekly phone meetings, with me or your co-supervisor(s).
 - Keep detailed meeting notes and make these accessible to me (for example
   as a markdown document in the project repository).
-- Submit on deadline. I don't expect the submission to be perfect or
-  final but I expect it to be on time. 
+- Submit on deadline. I don't expect submissions to be perfect or
+  final but I expect them to be on time. 
 - If you for some reason cannot keep the deadline then make sure to
-  inform me.
+  inform me and/or co-supervisor(s).
 - Respond to emails and messages on slack as soon as possible, but no
   later than 48 hours.
 - I manage every project as if it would result in a publication in a
