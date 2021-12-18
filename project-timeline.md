@@ -12,7 +12,7 @@ suggestion that I've found to work well for most projects.
 - Install R, RStudio and try [Swirl](https://swirlstats.com/students.html).
 - Join the team on [Slack](https://join.slack.com/t/teambengaltiger/shared_invite/zt-9pyvrok0-9OpClFBfWuTdxInVP_gxrw) and say hello.
 - Check out Johanna Berg's [student demo](https://github.com/tracits/StudentDemo) and learn how to integrate RStudio and GitHub.
-- Subscribe your project specific channel on Slack to changes in your GitHub repository by typing `github subscribe <your_github_username>/<your_github_repository>` (you need to replace <your_github_username> and <your_github_repository> with their actual names, for example `github subscribe martingerdin/student-git`). That way everyone involved in your project will receive notifications when you push edits to GitHub.
+- Subscribe your project specific channel on Slack to changes in your GitHub repository by typing `github subscribe <your_github_username>/<your_github_repository>` (you need to replace <your_github_username> and <your_github_repository> with their actual names, for example `github subscribe martingerdin/student-kit`). That way everyone involved in your project will receive notifications when you push edits to GitHub.
 - Read up.
 - Draft a detailed timeline with dates and deliveries and upload to
   your project repository.
