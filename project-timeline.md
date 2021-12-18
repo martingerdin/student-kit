@@ -11,6 +11,7 @@ suggestion that I've found to work well for most projects.
 - Create a project specific repository and name it something appropriate (GOOD: predict-preventable-deaths, BAD: Master-thesis)
 - Install R, RStudio and try [Swirl](https://swirlstats.com/students.html)
 - Join the team on [Slack](https://join.slack.com/t/teambengaltiger/shared_invite/zt-9pyvrok0-9OpClFBfWuTdxInVP_gxrw)
+- Check out Johanna Berg's [student demo](https://github.com/tracits/StudentDemo) and learn how to integrate RStudio and GitHub
 - Read up
 - Draft a detailed timeline with dates and deliveries and upload to
   your project repository
