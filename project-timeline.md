@@ -7,14 +7,15 @@ achieve the desired learning outcomes. The timeline here is a
 suggestion that I've found to work well for most projects.
 
 ## Week 1
-- Create a [GitHub](https://github.com/) account
-- Create a project specific repository and name it something appropriate (GOOD: predict-preventable-deaths, BAD: Master-thesis)
-- Install R, RStudio and try [Swirl](https://swirlstats.com/students.html)
-- Join the team on [Slack](https://join.slack.com/t/teambengaltiger/shared_invite/zt-9pyvrok0-9OpClFBfWuTdxInVP_gxrw)
-- Check out Johanna Berg's [student demo](https://github.com/tracits/StudentDemo) and learn how to integrate RStudio and GitHub
-- Read up
+- Create a [GitHub](https://github.com/) account.
+- Create a project specific repository and name it something appropriate (GOOD: predict-preventable-deaths, BAD: Master-thesis).
+- Install R, RStudio and try [Swirl](https://swirlstats.com/students.html).
+- Join the team on [Slack](https://join.slack.com/t/teambengaltiger/shared_invite/zt-9pyvrok0-9OpClFBfWuTdxInVP_gxrw) and say hello.
+- Check out Johanna Berg's [student demo](https://github.com/tracits/StudentDemo) and learn how to integrate RStudio and GitHub.
+- Subscribe your project specific channel on Slack to changes in your GitHub repository by typing `github subscribe <your_github_username>/<your_github_repository>` (you need to replace <your_github_username> and <your_github_repository> with their actual names, for example `github subscribe martingerdin/student-git`). That way everyone involved in your project will receive notifications when you push edits to GitHub.
+- Read up.
 - Draft a detailed timeline with dates and deliveries and upload to
-  your project repository
+  your project repository.
 - Draft a [study plan](study-plan.md) based on the appropriate study
   reporting guideline, for example
   [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/)
@@ -23,41 +24,41 @@ suggestion that I've found to work well for most projects.
   and upload to your project repository.
   
 ## Week 2
-- Revise your study plan based on feedback
-- Read up
+- Revise your study plan based on feedback.
+- Read up.
 
 ## Week 3
 - Start writing code and upload a first script that imports and begin
-  to clean the data
-- Draft and upload the progress report 
-- Read up
+  to clean the data.
+- Draft and upload the progress report.
+- Read up.
   
 ## Week 4
-- Revise code based on feedback
-- Add code that creates a first table of sample characteristics
-- Revise progress report based on feedback and submit
-- Read up
+- Revise code based on feedback.
+- Add code that creates a first table of sample characteristics.
+- Revise progress report based on feedback and submit.
+- Read up.
 
 ## Week 5-10
 - Write code that generate a first set of preliminary results and
-  revise weekly based on feedback
+  revise weekly based on feedback.
 
 ## Week 11-12
-- Draft the Results section and upload
-- Revise code based on feedback
+- Draft the Results section and upload.
+- Revise code based on feedback.
 
 ## Week 13-14
-- Draft Discussion section and upload
-- Revise Results based on feedback
+- Draft Discussion section and upload.
+- Revise Results based on feedback.
 
 ## Week 15
-- Draft and upload final project paper
+- Draft and upload final project paper.
 
 ## Week 16 
-- Revise final project paper and upload a second version
+- Revise final project paper and upload a second version.
 
 ## Week 17 
-- Revise second version of final project paper and submit
+- Revise second version of final project paper and submit.
 
 ## Week 18-20
 - Revise project paper based on comments and feedback from peers,
